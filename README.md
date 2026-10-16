@@ -16,7 +16,7 @@
 1. Open a terminal after cloning this repo
 2. run the command:
 
-'''
+```
 python3 process_orders.py example_orders.json
-'''
+```
 3. The program will create the two necessary files
